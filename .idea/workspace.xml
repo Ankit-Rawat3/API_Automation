@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144d25c0-f442-49a2-8f9f-1cd2558ffdda" name="Changes" comment="Files added for 8 oct tasks">
-      <change afterPath="$PROJECT_DIR$/allure-results/92336e89-b2c9-4b10-b1fc-41d8804e03ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/94e6abc2-7754-46d9-afc9-97904b1103e3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d58da510-c598-45d6-8c2c-13376efc447b-result.json" afterDir="false" />
+    <list default="true" id="144d25c0-f442-49a2-8f9f-1cd2558ffdda" name="Changes" comment="Files added for 8 oct">
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0e85fac0-5a29-4edc-94b1-9b5dbdc8ec96-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1032d678-6293-4f3e-82af-60a21b4b7339-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7f9faffe-14b9-4ab0-8172-0d50f021ddb6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a8b3e234-0bfb-4996-9186-a81f7768b8ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ae69b1db-2feb-4bfc-a041-9001ea1e637f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b03258ca-1532-4eae-8cc4-38b22a5376c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cfed0efb-5aaa-4f52-b22b-442c36b1a963-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/Learning_08102024/test_lab04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,12 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729449321157</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Files added for 8 oct">
+      <option name="closed" value="true" />
+      <created>1729450623129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729450623129</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Files added for 8 oct tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Files added for 8 oct tasks" />
+    <MESSAGE value="Files added for 8 oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files added for 8 oct" />
   </component>
 </project>
