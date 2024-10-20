@@ -36,6 +36,6 @@ def test_get_single_request_by_id_negaitve():
 @pytest.mark.smoke
 def test_get_single_request_by_id_negative():
     url = "https://restful-booker.herokuapp.com/booking/invalid"
-    responseData  = requests.get(url)
+    responseData  = requests.put(url)
     print(responseData.text)
     assert responseData.status_code == 404
