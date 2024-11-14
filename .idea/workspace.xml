@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144d25c0-f442-49a2-8f9f-1cd2558ffdda" name="Changes" comment="Files added for 10 oct">
-      <change afterPath="$PROJECT_DIR$/allure-results/06fc6f32-ca7c-4e01-808d-ce8c5b529afc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/143b9e85-54f0-43ff-8b85-3e7365d38ff4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/Learning_08102024/test_lab07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Learning_08102024/test_lab07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,35 +50,102 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.test_lab01.executor": "Run"
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests for test_lab07.test_delete.executor": "Run",
+    "Python tests.Python tests for test_lab10.test_i_need_confirm.executor": "Run",
+    "Python tests.Python tests for test_lab16.Test_CRUD.test_update_1.executor": "Run",
+    "Python tests.Python tests in Test_lab08.py.executor": "Run",
+    "Python tests.Python tests in test_lab07.py.executor": "Run",
+    "Python tests.Python tests in test_lab10.py.executor": "Run",
+    "Python tests.Python tests in test_lab12.py.executor": "Run",
+    "Python tests.Python tests in test_lab183.py.executor": "Run",
+    "Python.test_lab01.executor": "Run",
+    "last_opened_file_path": "C:/Users/vikas/PycharmProjects/API Automation"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="test_lab01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab16.Test_CRUD.test_update_1">
+    <configuration name="Python tests for test_lab10.test_i_need_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="API_Automation" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_08102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Src/Learning_08102024/test_lab01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab10.test_i_need_confirm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab16.Test_CRUD.test_update_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_08102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab16.Test_CRUD.test_update_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_lab10.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_08102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Src/Learning_08102024/test_lab10.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_lab11.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_08102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Src/Learning_08102024/test_lab11.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_lab12.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API_Automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Src/Learning_08102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Src/Learning_08102024/test_lab12.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_lab01" />
+        <item itemvalue="Python tests.Python tests for test_lab16.Test_CRUD.test_update_1" />
+        <item itemvalue="Python tests.Python tests in test_lab12.py" />
+        <item itemvalue="Python tests.Python tests in test_lab11.py" />
+        <item itemvalue="Python tests.Python tests for test_lab10.test_i_need_confirm" />
+        <item itemvalue="Python tests.Python tests in test_lab10.py" />
       </list>
     </recent_temporary>
   </component>
